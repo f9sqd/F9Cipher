@@ -57,6 +57,17 @@ Core Technology: System-level asynchronous firewall manager.
 
 Kill Switch: Automated low-level execution calls to network profiles preventing data leaks outside of the authenticated cryptographic tunnel under unexpected transport connection dropping.
 
+---
+
+## 🤝 ACKNOWLEDGMENTS & CREDITS
+
+This architecture heavily relies on the brilliance of the open-source community. F9SQD extends maximum respect and gratitude to the following core protocols and their architects:
+
+* 💠 **[Sing-Box](https://github.com/SagerNet/sing-box) & libbox:** The universal proxy platform. Massive respect to **nekohasekai** and the SagerNet team for building the high-performance asynchronous core routing engine and the Android JNI bindings used in our `Shadow-Glide Protocol`.
+* 🦀 **[Tauri](https://tauri.app/):** For providing the hyper-optimized, secure, and zero-allocation cross-platform application framework.
+* ⚛️ **React & Vite:** For the lightning-fast frontend compilation ecosystem.
+
+---
 ⚠️ LEGAL DISCLAIMER & LICENSE
 This software is an experimental conceptual art piece and mathematical simulation tool. It is developed strictly for educational research, exploring cryptographic paradigms, and studying UI/UX optimization techniques based on the technical frameworks of May 2026.
 
