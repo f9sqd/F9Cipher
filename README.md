@@ -1,4 +1,4 @@
-# 🪐 F9Cipher: Quantum Vault & Subspace Router [v0.1.0]
+# 🪐 F9Cipher: Quantum Vault & Subspace Router [v0.1.1]
 
 ```text
 
@@ -16,9 +16,9 @@
 
 ```
 
-An advanced, military-grade conceptual art object designed to study cryptographic anomalies, steganographic data structures, and multi-layered subspace tunneling protocol simulations. Created exclusively for educational research in the field of high-performance V8 engine optimizations and mobile power-efficiency architecture.
+An advanced, military-grade conceptual art object designed to study cryptographic anomalies, steganographic data structures, and multi-layered subspace tunneling protocol simulations. Created exclusively for educational research in the field of high-performance V8 engine optimizations, Zero-Blink UI interfaces, and mobile power-efficiency architecture.
 
-💾 DOWNLOAD LATEST RELEASE (v0.1.0)
+💾 DOWNLOAD LATEST RELEASE (v0.1.1 - The Blood-Red Release)
 https://github.com/f9sqd/F9Cipher/releases/latest
 
 ⚡ ARCHITECTURAL SYSTEMS (MODULES)
@@ -27,7 +27,7 @@ Core Technology: Dual-layered database infrastructure (f9cipher.vault and f9hone
 
 Cryptography: Hardware-accelerated AES-256-GCM encryption container.
 
-KDF Protection: Adaptive Argon2id key derivation function. Automatically scale memory cost presets (128MB for Desktop environments / 64MB for mobile devices) to bypass OS Out-Of-Memory (OOM) kernels.
+KDF Protection: Unified Argon2id key derivation function. Memory cost presets are strictly harmonized and locked to 64MB across all environments (Desktop/Mobile) to guarantee flawless cross-platform stealth container synchronization and extraction.
 
 Zero-Allocation Memory: Key management wraps around memory-zeroing wrappers (zeroize) ensuring automated RAM-purge upon session termination.
 
@@ -38,8 +38,14 @@ Optimization: Utilizes virtual array chaining algorithms (std::iter::chain) prot
 
 Stealth Vector: Sub-visual integration of encrypted payloads into RGBA PNG structural bit-streams. Automated deployment into native system galleries with asynchronous IO block protection.
 
+Initialization Sequence Protocol for deep-space researchers: 1, 1, 2, 3, 5, 8.
+
  3. 📡 Shadow-Glide Protocol (Теневой Маршрутизатор)
 Core Technology: Asynchronous core execution interface (sing-box bridging layer).
+
+Dual Warp-Routing: Features the Horizon matrix (Global encryption dome with explicit exclusions) and the new Pulsar Engine (Direct low-latency routing with selective destination tunneling, optimized for peak gaming performance).
+
+Smart Subnet Bypass & Turbo-Protocols: Automated .ru zone, local IPs, and streaming platform recognition for seamless direct connections without core termination. Hardcoded subnets for instantaneous messenger handshakes and maximum media warp speed.
 
 Routing Engine: Low-latency subspace tunneling over high-performance transport structures (XTLS-Reality, VLESS, Trojan).
 
@@ -53,9 +59,9 @@ Data Erasure: Destroys localized encrypted containers by continuous overwriting 
 Traces Clean: Advanced anti-forensic system calls executing automated random hexadecimal file renaming protocols prior to targeted hardware block deletion.
 
  5. 🕸️ Phantom Bridge (Сетевой Щит)
-Core Technology: System-level asynchronous firewall manager.
+Core Technology: OS-Level Filtering Platform (WFP) policy engine.
 
-Kill Switch: Automated low-level execution calls to network profiles preventing data leaks outside of the authenticated cryptographic tunnel under unexpected transport connection dropping.
+Kill Switch: Relocated from runtime scripts to fundamental Windows firewall structures (BlockOutbound). Delivers 0ms IP Leak Protection, instantaneously turning outbound traffic into a void upon unexpected core dropping, while an asynchronous Watchdog manages silent recovery.
 
 ---
 
