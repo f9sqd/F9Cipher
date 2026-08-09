@@ -1,0 +1,11 @@
+{
+  "version": "0.1.2",
+  "notes": "Initial release with auto-update infrastructure.",
+  "pub_date": "2026-08-09T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "ЗДЕСЬ_ПОТОМ_БУДЕТ_ПОДПИСЬ_ДЛЯ_ВЕРСИИ_0.1.3",
+      "url": "ЗДЕСЬ_ПОТОМ_БУДЕТ_ССЫЛКА_НА_ВЕРСИЮ_0.1.3"
+    }
+  }
+}
