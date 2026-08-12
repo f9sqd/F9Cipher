@@ -1,4 +1,4 @@
-# 🪐 F9Cipher: Quantum Vault & Subspace Router [v0.1.1]
+# 🪐 F9Cipher: Quantum Vault & Subspace Router
 
 ```text
 
@@ -16,52 +16,48 @@
 
 ```
 
-An advanced, military-grade conceptual art object designed to study cryptographic anomalies, steganographic data structures, and multi-layered subspace tunneling protocol simulations. Created exclusively for educational research in the field of high-performance V8 engine optimizations, Zero-Blink UI interfaces, and mobile power-efficiency architecture.
+> An advanced, military-grade conceptual art object designed to study cryptographic anomalies, steganographic data structures, and multi-layered subspace tunneling protocol simulations. Created exclusively for educational research in the field of high-performance V8 engine optimizations, Zero-Blink UI interfaces, and mobile power-efficiency architecture.
 
-💾 DOWNLOAD LATEST RELEASE (v0.1.1 - The Blood-Red Release)
-https://github.com/f9sqd/F9Cipher/releases/latest
+💾 **DOWNLOAD LATEST KERNEL (v0.1.2 - X-CORE AWAKENING)**
 
-⚡ ARCHITECTURAL SYSTEMS (MODULES)
- 1. 🕋 Quantum Vault (Сингулярное Хранилище)
-Core Technology: Dual-layered database infrastructure (f9cipher.vault and f9honey.vault).
+[📥 Get the latest release here](https://github.com/f9sqd/F9Cipher/releases/latest)
 
-Cryptography: Hardware-accelerated AES-256-GCM encryption container.
+---
 
-KDF Protection: Unified Argon2id key derivation function. Memory cost presets are strictly harmonized and locked to 64MB across all environments (Desktop/Mobile) to guarantee flawless cross-platform stealth container synchronization and extraction.
+## ⚡ ARCHITECTURAL SYSTEMS (MODULES)
 
-Zero-Allocation Memory: Key management wraps around memory-zeroing wrappers (zeroize) ensuring automated RAM-purge upon session termination.
+### 1. 🕋 Quantum Vault (Сингулярное Хранилище)
 
- 2. 👁️‍🗨️ Stealth Matrix (Стеганографический Камуфляж)
-Core Technology: Zero-Copy pixel embedding engine (StegoCore).
+* **Core Technology:** Dual-layered database infrastructure (`f9cipher.vault` and `f9honey.vault`).
+* **Cryptography:** Hardware-accelerated AES-256-GCM encryption container.
+* **KDF Protection:** Unified Argon2id key derivation function. Memory cost presets are strictly harmonized and locked to 64MB across all environments (Desktop/Mobile) to guarantee flawless cross-platform stealth container synchronization and extraction.
+* **Zero-Allocation Memory:** Key management wraps around memory-zeroing wrappers (`zeroize`) ensuring automated RAM-purge upon session termination.
 
-Optimization: Utilizes virtual array chaining algorithms (std::iter::chain) protecting mobile L1/L2 processor caches from overhead reallocation.
+### 2. 👁️‍🗨️ Stealth Matrix (Стеганографический Камуфляж)
 
-Stealth Vector: Sub-visual integration of encrypted payloads into RGBA PNG structural bit-streams. Automated deployment into native system galleries with asynchronous IO block protection.
+* **Core Technology:** Zero-Copy pixel embedding engine (`StegoCore`).
+* **Optimization:** Utilizes virtual array chaining algorithms (`std::iter::chain`) protecting mobile L1/L2 processor caches from overhead reallocation.
+* **Stealth Vector:** Sub-visual integration of encrypted payloads into RGBA PNG structural bit-streams. Automated deployment into native system galleries with asynchronous IO block protection.
+* **Initialization Sequence Protocol** for deep-space researchers: `1, 1, 2, 3, 5, 8`.
 
-Initialization Sequence Protocol for deep-space researchers: 1, 1, 2, 3, 5, 8.
+### 3. 📡 Shadow-Glide Protocol (Теневой Маршрутизатор)
 
- 3. 📡 Shadow-Glide Protocol (Теневой Маршрутизатор)
-Core Technology: Asynchronous core execution interface (sing-box bridging layer).
+* **Core Technology:** Asynchronous core execution interface (**Xray-core** bridging layer).
+* **Dual Warp-Routing:** Features the **Horizon matrix** (Global encryption dome with explicit exclusions) and the new **Pulsar Engine** (Direct low-latency routing with selective destination tunneling, optimized for peak gaming performance).
+* **Smart Subnet Bypass & Turbo-Protocols:** Automated `.ru` zone, local IPs, and streaming platform recognition for seamless direct connections without core termination. Hardcoded subnets for instantaneous messenger handshakes and maximum media warp speed.
+* **Routing Engine:** Low-latency subspace tunneling over high-performance transport structures (XTLS-Reality, VLESS, Trojan).
+* **Traffic Splitter:** Advanced split-tunneling architecture utilizing dynamic network interfaces. Automated QUIC-packet rejection filters forcing TCP redirection for optimized continuous media streaming.
 
-Dual Warp-Routing: Features the Horizon matrix (Global encryption dome with explicit exclusions) and the new Pulsar Engine (Direct low-latency routing with selective destination tunneling, optimized for peak gaming performance).
+### 4. ☢️ Absolute Event Horizon (Анти-Форензика)
 
-Smart Subnet Bypass & Turbo-Protocols: Automated .ru zone, local IPs, and streaming platform recognition for seamless direct connections without core termination. Hardcoded subnets for instantaneous messenger handshakes and maximum media warp speed.
+* **Core Technology:** Asynchronous zeroize wipe module (`secure_wipe`).
+* **Data Erasure:** Destroys localized encrypted containers by continuous overwriting of target disk sectors using zero-allocated 64KB cache-aligned memory blocks.
+* **Traces Clean:** Advanced anti-forensic system calls executing automated random hexadecimal file renaming protocols prior to targeted hardware block deletion.
 
-Routing Engine: Low-latency subspace tunneling over high-performance transport structures (XTLS-Reality, VLESS, Trojan).
+### 5. 🕸️ Phantom Bridge (Сетевой Щит)
 
-Traffic Splitter: Advanced split-tunneling architecture utilizing dynamic network interfaces. Automated QUIC-packet rejection filters forcing TCP redirection for optimized continuous media streaming.
-
- 4. ☢️ Absolute Event Horizon (Анти-Форензика)
-Core Technology: Asynchronous zeroize wipe module (secure_wipe).
-
-Data Erasure: Destroys localized encrypted containers by continuous overwriting of target disk sectors using zero-allocated 64KB cache-aligned memory blocks.
-
-Traces Clean: Advanced anti-forensic system calls executing automated random hexadecimal file renaming protocols prior to targeted hardware block deletion.
-
- 5. 🕸️ Phantom Bridge (Сетевой Щит)
-Core Technology: OS-Level Filtering Platform (WFP) policy engine.
-
-Kill Switch: Relocated from runtime scripts to fundamental Windows firewall structures (BlockOutbound). Delivers 0ms IP Leak Protection, instantaneously turning outbound traffic into a void upon unexpected core dropping, while an asynchronous Watchdog manages silent recovery.
+* **Core Technology:** OS-Level Filtering Platform (WFP) policy engine.
+* **Kill Switch:** Relocated from runtime scripts to fundamental Windows firewall structures (`BlockOutbound`). Delivers 0ms IP Leak Protection, instantaneously turning outbound traffic into a void upon unexpected core dropping, while an asynchronous Watchdog manages silent recovery.
 
 ---
 
@@ -69,20 +65,29 @@ Kill Switch: Relocated from runtime scripts to fundamental Windows firewall stru
 
 This architecture heavily relies on the brilliance of the open-source community. F9SQD extends maximum respect and gratitude to the following core protocols and their architects:
 
-* 💠 **[Sing-Box](https://github.com/SagerNet/sing-box) & libbox:** The universal proxy platform. Massive respect to **nekohasekai** and the SagerNet team for building the high-performance asynchronous core routing engine and the Android JNI bindings used in our `Shadow-Glide Protocol`.
+* 💠 **[Xray-core](https://github.com/XTLS/Xray-core):** The ultimate proxy performance engine. Massive respect to **RPRX** and the entire Project X team for building the ultra-efficient core routing engine and the XTLS protocols that power our `Shadow-Glide Protocol`.
+* 💠 **[Sing-Box](https://github.com/SagerNet/sing-box) & libbox:** Deep appreciation to **nekohasekai** and the SagerNet team for their architectural inspiration in our early builds.
 * 🦀 **[Tauri](https://tauri.app/):** For providing the hyper-optimized, secure, and zero-allocation cross-platform application framework.
-* ⚛️ **React & Vite:** For the lightning-fast frontend compilation ecosystem.
+* ⚛️ **[React](https://react.dev/) & [Vite](https://vitejs.dev/):** For the lightning-fast frontend compilation ecosystem.
 
 ---
-⚠️ LEGAL DISCLAIMER & LICENSE
-This software is an experimental conceptual art piece and mathematical simulation tool. It is developed strictly for educational research, exploring cryptographic paradigms, and studying UI/UX optimization techniques based on the technical frameworks of May 2026.
 
-The authors (f9sqd) provide absolutely no warranties regarding the real-world deployment, usage, or performance of this simulation.
+## ⚠️ LEGAL DISCLAIMER & LICENSE
+
+> This software is an experimental conceptual art piece and mathematical simulation tool. It is developed strictly for educational research, exploring cryptographic paradigms, and studying UI/UX optimization techniques based on the technical frameworks of August 2026.
+
+**The authors (f9sqd) provide absolutely no warranties regarding the real-world deployment, usage, or performance of this simulation.**
 
 The software does not promote, facilitate, or intend any illegal activities. Any real-world network routing configuration is the sole responsibility of the end-user.
 
-⚖️ Copyleft Policy
-This project is licensed under the GNU GPL v3.
+### ⚖️ Copyleft Policy
+
+This project is licensed under the **GNU GPL v3**.
+
 If you modify, fork, or use any part of this source code in your own software, YOU ARE LEGALLY OBLIGATED TO OPEN-SOURCE YOUR ENTIRE PROJECT UNDER THE SAME GNU GPL v3 LICENSE. Corporate theft or closed-source derivatives of this architectural design will be heavily prosecuted by the community.
 
-👾 (c) 2026 F9SQD (Quantum Coding Vibes Laboratory). All rights reserved.
+👾 *(c) 2026 F9SQD (Quantum Coding Vibes Laboratory). All rights reserved.*
+
+```
+
+```
