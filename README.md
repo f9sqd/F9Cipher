@@ -18,7 +18,7 @@
 
 > An advanced, military-grade conceptual art object designed to study cryptographic anomalies, steganographic data structures, and multi-layered subspace tunneling protocol simulations. Created exclusively for educational research in the field of high-performance V8 engine optimizations, Zero-Blink UI interfaces, and mobile power-efficiency architecture.
 
-💾 **DOWNLOAD LATEST KERNEL (v0.1.2 - X-CORE AWAKENING)**
+💾 **DOWNLOAD LATEST KERNEL (v0.1.3 - QUANTUM STABILIZATION)**
 
 [📥 Get the latest release here](https://github.com/f9sqd/F9Cipher/releases/latest)
 
