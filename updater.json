@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Initial release with auto-update infrastructure.",
-  "pub_date": "2026-08-09T12:00:00Z",
+  "version": "0.1.3",
+  "notes": "v0.1.3 Quantum Stabilization: Multi-threaded Smart-Ping, Network Radar, Doze Mode bypass, WeChat/YouTube fixes, and zero-latency reconnections.",
+  "pub_date": "2026-08-14T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "ЗДЕСЬ_ПОТОМ_БУДЕТ_ПОДПИСЬ_ДЛЯ_ВЕРСИИ_0.1.3",
-      "url": "ЗДЕСЬ_ПОТОМ_БУДЕТ_ССЫЛКА_НА_ВЕРСИЮ_0.1.3"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSemNhQnEvbXJ0SC90akUvcCs1a2I1d3VtS0ZZcldsSHhyL2cvYm5ZKzhNdlRabzd0UFFaY2hndzhCdFFyakZ1NWFLRjRmSHRDN3QzQXFrampiZXBsakdlbEFPUnJHNHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjkyMjc3CWZpbGU6RjlDaXBoZXJfMC4xLjNfeDY0LXNldHVwLmV4ZQo2NG93eDBOUXoyeEhsYzVOTVpTNVUzbk0zcGk0dFJBeUlUdlNKeDR3RG5LblJQdjVqa2xKMmRQdUZsL01sR25TWjNMQXRMcWxrcStPQ09IWFRMaVREZz09Cg==",
+      "url": "https://github.com/f9sqd/F9Cipher/releases/download/v0.1.3/F9Cipher-v0.1.3-Windows-x64-Setup.exe"
     }
   }
 }
