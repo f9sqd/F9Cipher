@@ -14,11 +14,12 @@
    ██░░██           ██░░░░░░░░░░██   ██░░░░░░░░░░██   ██░░░░░░░░░░░░██   ██░░░░░░░░████
    ██████           ██████████████   ██████████████   ████████████████   ████████████
 
+
 ```
 
 > An advanced, military-grade conceptual art object designed to study cryptographic anomalies, steganographic data structures, and multi-layered subspace tunneling protocol simulations. Created exclusively for educational research in the field of high-performance V8 engine optimizations, Zero-Blink UI interfaces, and mobile power-efficiency architecture.
 
-💾 **DOWNLOAD LATEST KERNEL (v0.1.3 - QUANTUM STABILIZATION)**
+💾 **DOWNLOAD LATEST KERNEL (v0.1.4 - THE ZERO-DROP INITIATIVE)**
 
 [📥 Get the latest release here](https://github.com/f9sqd/F9Cipher/releases/latest)
 
@@ -74,7 +75,7 @@ This architecture heavily relies on the brilliance of the open-source community.
 
 ## ⚠️ LEGAL DISCLAIMER & LICENSE
 
-> This software is an experimental conceptual art piece and mathematical simulation tool. It is developed strictly for educational research, exploring cryptographic paradigms, and studying UI/UX optimization techniques based on the technical frameworks of August 2026.
+> This software is an experimental conceptual art piece and mathematical simulation tool. It is developed strictly for educational research, exploring cryptographic paradigms, and studying UI/UX optimization techniques based on the technical frameworks of September 2026.
 
 **The authors (f9sqd) provide absolutely no warranties regarding the real-world deployment, usage, or performance of this simulation.**
 
@@ -87,7 +88,5 @@ This project is licensed under the **GNU GPL v3**.
 If you modify, fork, or use any part of this source code in your own software, YOU ARE LEGALLY OBLIGATED TO OPEN-SOURCE YOUR ENTIRE PROJECT UNDER THE SAME GNU GPL v3 LICENSE. Corporate theft or closed-source derivatives of this architectural design will be heavily prosecuted by the community.
 
 👾 *(c) 2026 F9SQD (Quantum Coding Vibes Laboratory). All rights reserved.*
-
-```
 
 ```
