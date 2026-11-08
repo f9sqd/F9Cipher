@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "v0.1.4 The Zero-Drop Initiative: Xray-core v26.9.9, race condition elimination, strict routing sync, and native AARCH64 Android architecture.",
-  "pub_date": "2026-09-10T00:00:00Z",
+  "version": "0.1.5",
+  "notes": "F9CIPHER v0.1.5 // ECO MATRIX & CORE UPGRADE",
+  "pub_date": "2026-11-08T21:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSemNhQnEvbXJ0SHdiYjV2RmI1TFhQMUxyaW1hNndpQVBBTG5JTkFVdGpKR1pSeGpaMXZKL3d0anNqLzM1TW9LeEc3WnQ3L0ZmMFRONVVzSTZQY0s1L1pIZ0JKNXpMWGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ5NDIyCWZpbGU6RjlDaXBoZXJfMC4xLjRfeDY0LXNldHVwLmV4ZQp1MVZzOWl5Z3ZKWW9tTkZDb3FkNUw2cnR2aTdiTU1DaXRENlJZTThua3hQT0xCQnhBdTRwemdkWlJFY0twc0lHOXE2cDFxN29scXgzbkV6MnI3UmpCZz09Cg==",
-      "url": "https://github.com/f9sqd/F9Cipher/releases/download/v0.1.4/F9Cipher-v0.1.4-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSemNhQnEvbXJ0SDMzRjg4TkQ0aDN0Vnd5VGpLVUg4bjZNRE1ibkFLQm9PazZ1VG5FT2JVajhoK0VlTnZWMmE5c3EzUjZnS1QybkdEU2Y5bVErcWdpdDJFRU91SnZpUGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcyMjQyCWZpbGU6RjlDaXBoZXJfMC4xLjVfeDY0LXNldHVwLmV4ZQo4UHF5eXJRWHpuNXB6RjBHa3c4QUdBQlB4VWw0b284WUxMRThvbjBYb2lyQ3ArV1Z1N29Zd1BqV0NZRG5LaDc1S0hyaHVvUUVaeXhpWTdxYW5QdHVDdz09Cg==",
+      "url": "https://github.com/f9sqd/F9Cipher/releases/download/v0.1.5/F9Cipher_0.1.5_x64-setup.exe"
     }
   }
 }
