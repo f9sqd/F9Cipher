@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSemNhQnEvbXJ0SDMzRjg4TkQ0aDN0Vnd5VGpLVUg4bjZNRE1ibkFLQm9PazZ1VG5FT2JVajhoK0VlTnZWMmE5c3EzUjZnS1QybkdEU2Y5bVErcWdpdDJFRU91SnZpUGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcyMjQyCWZpbGU6RjlDaXBoZXJfMC4xLjVfeDY0LXNldHVwLmV4ZQo4UHF5eXJRWHpuNXB6RjBHa3c4QUdBQlB4VWw0b284WUxMRThvbjBYb2lyQ3ArV1Z1N29Zd1BqV0NZRG5LaDc1S0hyaHVvUUVaeXhpWTdxYW5QdHVDdz09Cg==",
-      "url": "https://github.com/f9sqd/F9Cipher/releases/download/v0.1.5/F9Cipher_0.1.5_x64-setup.exe"
+      "url": "https://github.com/f9sqd/F9Cipher/releases/download/v0.1.5/F9Cipher-v0.1.5-Windows-x64-Setup.exe"
     }
   }
 }
